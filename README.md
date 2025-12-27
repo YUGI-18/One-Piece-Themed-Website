@@ -43,30 +43,30 @@ This project showcases my frontend fundamentals and design thinking as I begin m
 
 ## 📂 Project Structure
 
+```text
 one-piece-themed-website/
-│
-├── onepiece.html
-├── onepiecestyle.css
-├── README.md
-│
-└── images/
-    ├── logo-removebg-preview.png
-    ├── luffy.jpg
-    ├── world-map.jpg
-    │
-    ├── brook-poster.jpg
-    ├── chopper-poster.jpg
-    ├── franky-poster.jpg
-    ├── jimbei-poster.jpg
-    ├── luffy-poster.jpg
-    ├── nami-poster.jpg
-    ├── robin-poster.jpg
-    ├── sanji-poster.jpg
-    ├── usopp-poster.jpg
-    ├── zoro-poster.jpg
-    │
-    ├── grandline.jpg
-    ├── new-world.jpg
-    └── wano.jpg
+|
+|-- onepiece.html
+|-- onepiecestyle.css
+|-- README.md
+|
+`-- images/
+    |-- logo-removebg-preview.png
+    |-- luffy.jpg
+    |-- world-map.jpg
+    |-- brook-poster.jpg
+    |-- chopper-poster.jpg
+    |-- franky-poster.jpg
+    |-- jimbei-poster.jpg
+    |-- luffy-poster.jpg
+    |-- nami-poster.jpg
+    |-- robin-poster.jpg
+    |-- sanji-poster.jpg
+    |-- usopp-poster.jpg
+    |-- zoro-poster.jpg
+    |-- grandline.jpg
+    |-- new-world.jpg
+    `-- wano.jpg
+```
 
 ---
