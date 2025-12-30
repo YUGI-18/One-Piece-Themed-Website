@@ -207,7 +207,6 @@ body {
   background-color: #efe6d8;
   margin-top: 0px;
   padding: 0;
-  height: 100vh;
 }
 .world-section h1 {
   font-size: 40px;
@@ -326,7 +325,7 @@ body {
 
 .power-section {
   background: linear-gradient(180deg, #1e3a5f, #0b1c2d);
-  height: 100vh;
+
 }
 .power-section h1 {
   color: #f4c430;
